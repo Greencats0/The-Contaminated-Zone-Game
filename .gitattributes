@@ -2,3 +2,5 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
 metadata/** filter=lfs diff=lfs merge=lfs -text
 TheContaminatedZone/Library/metadata/** filter=lfs diff=lfs merge=lfs -text
+TheContaminatedZone/Assets/Venice/** filter=lfs diff=lfs merge=lfs -text
+Venice/** filter=lfs diff=lfs merge=lfs -text
