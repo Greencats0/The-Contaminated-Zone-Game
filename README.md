@@ -1,4 +1,4 @@
-# The-Contamited-Zone-Game
+# The-Contaminated-Zone-Game
 This is the game my friend and I made during my Highschool Internship at Tepia Co. in 2017.
 For reference my friends name is Andy Cho and he did some of the visual elements of this project while I did the actual gameplay, mechanics, and rest of the coding.
 
